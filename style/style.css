@@ -1,16 +1,27 @@
 body {
-    margin: 0;
-   color: #cdcdcd;
+   margin: 0;
+   color: #ababab;
    font-family: "Avenir Next", "Avenir", sans-serif;
 }
-p {
+
+.main-text-container {
+    width: 40%;
+    float: right;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-text {
     margin: 0;
+    font-family: 'Tangerine', cursive;
+    font-size:3em;
 }
 
 #overthefold {
     width: 100%;
-    height: 100vh;
-    background-image: url('/media/pine.jpg');
+    height: 140vh;
+    background-image: url('/media/brown.png');
     background-position: center;
     background-size: cover;
     margin: 0;
