@@ -9,7 +9,7 @@
   <meta name="author" content="Therese Levin">
 
   <link rel="stylesheet" href="style/style.css">
-
+  <link href="https://fonts.googleapis.com/css?family=Tangerine&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -34,8 +34,16 @@
       </nav>
         </header>
 
-    <p>The best quality products are those carried at professional establishments like ours. Pinecone are carefully selected to be the most environmentally friendly products available.</p>
+        <div class="main-text-container">
+          <p class="main-text">The best quality products are those carried at professional establishments like ours.<br></p>
+          
+        </div>
+
+        
+    
   </section>
+
+  <p>Pinecone are carefully selected to be the most environmentally friendly products available.</p>
   <footer></footer>
 
 </body>
