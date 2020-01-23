@@ -19,10 +19,6 @@
     <nav></nav>
   </header>
   
-  <section></section>
-  <section></section>
-  <section></section>
-
   <footer></footer>
 
 </body>
