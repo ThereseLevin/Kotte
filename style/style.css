@@ -4,6 +4,38 @@ body {
    font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
+.logo img {
+  width: 20%;
+}
+
+.cart {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+path {
+  fill: #ababab;
+}
+
+.cart img {
+  width: 5%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+}
+
+header {
+  width: 96%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+ 
+}
+
 .main-text-container {
     width: 40%;
     float: right;
